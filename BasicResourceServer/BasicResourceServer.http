@@ -1,0 +1,6 @@
+@BasicResourceServer_HostAddress = http://localhost:5151
+
+GET {{BasicResourceServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
